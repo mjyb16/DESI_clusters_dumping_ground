@@ -1,1 +1,1 @@
-Lots of old code from the DESI clusters project.
+Lots of old code from the CluMPR DESI clusters project.
